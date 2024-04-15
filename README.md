@@ -2,13 +2,13 @@
 
 ## 0 Setup
 
-Whole Group
+### Whole Group
 
 -   Ensure everyone is a member of livingingroups org. (Or has access to this repo.)
 
 -   Brock to create and push skeleton functions for everyone
 
-Individually
+### Individually
 
 -   Clone this repo and create an RStudio or VSCode project from it.
 
@@ -20,7 +20,21 @@ Individually
 
 -   Make sure you can find your personal R file.
 
-⬜ Whiteboard overview
+### ⬜ Whiteboard overview
+
+-   Determine who will review who
+
+-   Conceptual explanation of telephone game
+
+-   Demo of existing relevant R/python files: (You don't need to understand each line by line.)
+
+    -   `brock.py` - You should understand input, output, and how to use `all_english_words` vector in your function.
+
+    -   `marius.py` - You should understand input, output.
+
+    -   `telephone(word)` - You should understand the what this function is doing and how your function will fit into it.
+
+-   Conceptual explanation and diagram of what is happening with git, github and locally in the next 3 sections.
 
 ## 1. Update your function, push it, make a PR
 
@@ -69,6 +83,8 @@ Individually
 ## 3. Demo: Running form main...everyone's code together
 
 ## 4. (Time Allowing) Make comments on another person's code.
+
+⬜ Whiteboard explanation
 
 -   Pull
 

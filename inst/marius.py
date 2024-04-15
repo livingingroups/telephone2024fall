@@ -5,5 +5,5 @@ all_english_words = [i.strip() for i in open(os.sep.join((
     "words.txt"
 )))]
 
-def marius_function_py(word):
+def marius_function(word):
   return word

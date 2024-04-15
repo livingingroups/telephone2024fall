@@ -1,6 +1,4 @@
-marius_function <- function(word){
-  reticulate::source_python(
-    system.file('marius.py', package = 'telephone2024')
-  )
-  return(marius_function_py(word))
-}
+#' @importMethodsFrom reticulate import_from_path
+marius_function <- reticulate::import_from_path('marius',
+    system.file('.', package = 'telephone2024')
+)$marius_function
