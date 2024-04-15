@@ -12,8 +12,6 @@ Individually
 
 -   Clone this repo and create an RStudio or VSCode project from it.
 
--   Install dependency `install.packages("words")`
-
 -   "Load all"
 
     ![](images/clipboard-3918266719.png)
