@@ -10,15 +10,33 @@
 
 ### Individually
 
+-   (optional, but highly recommended) Ensure you have a github ssh key authentication connection set up.
+
 -   Clone this repo and create an RStudio or VSCode project from it.
 
--   "Load all"
+-   VSCode:
+
+    -   If you have a project open, File \> Close folder
+    -   From VSCode welcome screen, chose "Clone git repository"
+    -   Paste `git@github.com:livingingroups/telephone2024.git`
+
+-   RStudio
+
+    -   In top right corner click ont he name of your current project (or "(no project)").
+    -   Chose "New Project"\>"Version Control"\>git
+    -   Paste `git@github.com:livingingroups/telephone2024.git`
+
+-   If using R, "Load all"
 
     ![](images/clipboard-3918266719.png)
 
--   Make sure you can run your the `telephone(word)` function and your function (your_name(word)\`.
+-   If using R, make sure you can run your the `telephone(word)` function and your function (your_name(word)\`.
 
--   Make sure you can find your personal R file.
+-   Make sure you can find your personal R or file.
+
+    -   R: in the `R` directory
+
+    -   python: in the `inst` directory
 
 ### ⬜ Whiteboard overview
 
@@ -40,9 +58,21 @@
 
 -   Create a new branch
 
-    ![](images/clipboard-3051619292.png)
+    -   Rstudio
+
+        ![](images/clipboard-3051619292.png)
+
+    -   VSCode
+
+    -   ![](images/clipboard-3204666508.png)
 
     -   We are not working with forks so you can leave the remote as `origin`
+
+    -   You can validate that you have changed branches
+
+        -   RStudio: top right corner within the "git" tab
+
+        -   VSCode: bottom left corn
 
 -   Make changes to your function:
 
@@ -52,7 +82,11 @@
 
     -   Test out your function
 
--   Commit your change (Commit button in Git tab)
+-   Commit your change
+
+    -   RStudio: Commit button in Git tab
+
+    -   VSCode: Source Control side bar tab, Big Blue Commit Button
 
 -   Push your change (Push Button in Git tab)
 
