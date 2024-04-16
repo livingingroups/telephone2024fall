@@ -74,21 +74,35 @@
 
         -   VSCode: bottom left corn
 
--   Make changes to your function:
+-   Make changes to your function (repeat as necessary):
 
     -   Make a change
 
-    -   Run Load All
+    -   Test your function
 
-    -   Test out your function
+        -   R:
 
--   Commit your change
+            -   Run Load All
+
+            -   In the console, run your function with whatever test inputs you chose.
+
+        -   Python
+
+            -   Run your `.py` file as a script.
+
+            -   You can modify the sample inputs as you like. Anything within the `if __name__ == '___main__'` block will not impact how your function works within the package.
+
+-   Once you're happy, Commit your change
 
     -   RStudio: Commit button in Git tab
 
     -   VSCode: Source Control side bar tab, Big Blue Commit Button
 
--   Push your change (Push Button in Git tab)
+-   Push your change
+
+    -   Rstudio: Push Button in Git tab
+
+    -   VSCode: Source Control side bar tab, "Sync Changes" Button
 
 -   Create a pull request
 
