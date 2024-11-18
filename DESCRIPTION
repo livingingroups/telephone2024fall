@@ -8,5 +8,4 @@ Description: Example for April 16 2024 workshop of using git and github for coll
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.3
-Imports: reticulate
+RoxygenNote: 7.3.1

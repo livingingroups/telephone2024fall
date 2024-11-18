@@ -4,27 +4,19 @@
 
 ### Whole Group
 
--   Ensure everyone is a member of livingingroups org. (Or has access to this repo.)
-
 -   Brock to create and push skeleton functions for everyone
 
 ### Individually
 
 -   (optional, but highly recommended) Ensure you have a github ssh key authentication connection set up.
 
--   Clone this repo and create an RStudio or VSCode project from it.
-
--   VSCode:
-
-    -   If you have a project open, File \> Close folder
-    -   From VSCode welcome screen, chose "Clone git repository"
-    -   Paste `git@github.com:livingingroups/telephone2024.git`
+-   Clone this repo and create an RStudio or project from it.
 
 -   RStudio
 
     -   In top right corner click ont he name of your current project (or "(no project)").
     -   Chose "New Project"\>"Version Control"\>git
-    -   Paste `git@github.com:livingingroups/telephone2024.git`
+    -   Paste `git@github.com:livingingroups/telephone2024fall.git`
 
 -   If using R, "Load all"
 
@@ -35,8 +27,6 @@
 -   Make sure you can find your personal R or file.
 
     -   R: in the `R` directory
-
-    -   python: in the `inst` directory
 
 ### ⬜ Whiteboard overview
 

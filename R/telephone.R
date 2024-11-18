@@ -10,8 +10,7 @@
 #' @export
 telephone <- function(word) {
   player_functions <- list(
-    brock_function,
-    marius_function
+    brock_function
   )
 
   words <- word
