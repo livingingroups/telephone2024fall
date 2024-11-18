@@ -60,17 +60,9 @@ This workshop is part of [eas-coding-workshops](https://github.com/livingingroup
 
     -   Test your function
 
-        -   R:
+          -   Run Load All
 
-            -   Run Load All
-
-            -   In the console, run your function with whatever test inputs you chose.
-
-        -   Python
-
-            -   Run your `.py` file as a script.
-
-            -   You can modify the sample inputs as you like. Anything within the `if __name__ == '___main__'` block will not impact how your function works within the package.
+          -   In the console, run your function with whatever test inputs you chose.
 
 -   Once you're happy, Commit your change
 
