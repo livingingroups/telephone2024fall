@@ -34,14 +34,6 @@
 
 -   Conceptual explanation of telephone game
 
--   Demo of existing relevant R/python files: (You don't need to understand each line by line.)
-
-    -   `brock.py` - You should understand input, output, and how to use `all_english_words` vector in your function.
-
-    -   `marius.py` - You should understand input, output.
-
-    -   `telephone(word)` - You should understand the what this function is doing and how your function will fit into it.
-
 -   Conceptual explanation and diagram of what is happening with git, github and locally in the next 3 sections.
 
 ## 1. Update your function, push it, make a PR
@@ -52,17 +44,11 @@
 
         ![](images/clipboard-3051619292.png)
 
-    -   VSCode
-
-    -   ![](images/clipboard-3204666508.png)
-
     -   We are not working with forks so you can leave the remote as `origin`
 
     -   You can validate that you have changed branches
 
         -   RStudio: top right corner within the "git" tab
-
-        -   VSCode: bottom left corn
 
 -   Make changes to your function (repeat as necessary):
 
@@ -86,17 +72,15 @@
 
     -   RStudio: Commit button in Git tab
 
-    -   VSCode: Source Control side bar tab, Big Blue Commit Button
 
 -   Push your change
 
     -   Rstudio: Push Button in Git tab
 
-    -   VSCode: Source Control side bar tab, "Sync Changes" Button
 
 -   Create a pull request
 
-    -   **Switch over from RStudio or VSCode to Github, open** <https://github.com/livingingroups/telephone2024>
+    -   **Switch over from RStudio to Github, open** <https://github.com/livingingroups/telephone2024fall>
 
     -   You will likely see a prompt to create a PR from your recently pushed branch.
 
@@ -106,7 +90,7 @@
 
 ## 2. Review another person's code. (Make sure it runs and works.)
 
--   In Rstudio or VSCode or with git command line, "Pull" from remote.
+-   In Rstudio or with git command line, "Pull" from remote.
 
 -   Switch to the branch of the person you're reviewing.
 
