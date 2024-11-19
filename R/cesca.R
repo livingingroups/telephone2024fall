@@ -9,5 +9,5 @@ cesca_function <- function(word){
   } else {
     print("Word found in list, congrats!")
   }
-
+return(word)
 }
