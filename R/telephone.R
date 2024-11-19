@@ -10,7 +10,13 @@
 #' @export
 telephone <- function(word) {
   player_functions <- list(
-    brock_function
+    brock_function,
+    kat_function,
+    lucia_function,
+    fran_function,
+    sonya_function,
+    gustavo_function,
+    cesca_function
   )
 
   words <- word
