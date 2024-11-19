@@ -14,7 +14,7 @@ cesca_function <- function(word){
     print(paste0(word," is a great word! What about ", all_english_words[input_index + 1], "? And all the other words that start with ", word, "?"))
   }
 
-  # retunr all words that start with the given word
+  # return all words that start with the given word
   matching_words <- all_english_words[startsWith(all_english_words, word)]
 
   return(matching_words)
