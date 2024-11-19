@@ -6,7 +6,7 @@ lucia_function <- function(word) {
   # If word has 4 letters and in the list, print the previous word
   if (nchar(word) == 4) {
     return(all_english_words[input_index[1] - 1])
-    # If input word is the first word, return the last word in the list
+    # if different from 4, then print the 4th word
       } else {return(all_english_words[4])
     }
   }
