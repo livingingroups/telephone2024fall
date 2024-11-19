@@ -5,7 +5,7 @@ cesca_function <- function(word){
 
 
   if(length(input_index) == 0) {
-    print("Bummer, not English")
+    print("Bummer, not a word")
   } else {
     print("Word found in list, congrats!")
   }
