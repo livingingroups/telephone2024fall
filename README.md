@@ -60,19 +60,17 @@ This workshop is part of [eas-coding-workshops](https://github.com/livingingroup
 
     -   Test your function
 
-          -   Run Load All
+        -   Run Load All
 
-          -   In the console, run your function with whatever test inputs you chose.
+        -   In the console, run your function with whatever test inputs you chose.
 
 -   Once you're happy, Commit your change
 
     -   RStudio: Commit button in Git tab
 
-
 -   Push your change
 
     -   Rstudio: Push Button in Git tab
-
 
 -   Create a pull request
 
