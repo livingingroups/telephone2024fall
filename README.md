@@ -1,5 +1,3 @@
-### EXAMPLE BAD EDIT **** :-O 
-
 # Context
 
 This workshop is part of [eas-coding-workshops](https://github.com/livingingroups/eas-coding-workshops) workshop series.
